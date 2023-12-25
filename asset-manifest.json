@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quote_of_the_day/static/css/main.f7578ab1.css",
+    "main.js": "/quote_of_the_day/static/js/main.8cc41425.js",
+    "static/media/logo.png": "/quote_of_the_day/static/media/logo.e679f28b8bfd7e213317.png",
+    "index.html": "/quote_of_the_day/index.html",
+    "main.f7578ab1.css.map": "/quote_of_the_day/static/css/main.f7578ab1.css.map",
+    "main.8cc41425.js.map": "/quote_of_the_day/static/js/main.8cc41425.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7578ab1.css",
+    "static/js/main.8cc41425.js"
+  ]
+}
